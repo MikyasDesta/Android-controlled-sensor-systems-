@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoBot</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ConnectBtnText">Connect</string>
+    <string name="ExitBtnText">Exit</string>
+    <string name="TextVText1">Start Bluetooth</string>
+    <string name="PairedtextBoxText">Paired Devices</string>
+    <string name="NewDeviceTextBoxText">New devices</string>
+    <string name="ButtoncancelText">Cancel</string>
+    <string name="ButtonScanText">Re-Scan</string>
+    <string name="title_activity_main">SCOTR controller</string>
+    <string name="title_devicelistactivity">Devices in Range</string>
+    <string name="scanning">Scanning for devices</string>
+    <string name="none_paired">No paired device found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="select_device">Select device to connect</string>
+    <string name="none_found">No Device found</string>
+    <string name="title_connected_to">Connected to</string>
+    <string name="title_connecting">Connecting...</string>
+    <string name="title_not_connected">Not Connected</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="VidStreamBtnText">Watch</string>
+    <string name="title_activity_video_stream">VideoStream</string>
+    <string name="title_activity_joystick">Joystick</string>
+    <string name="title_activity_controller_type">ControllerType</string>
+    <string name="ModeSelection">Select The mode</string>
+    <string name="Modes">Modes:</string>
+    <string name="Up">Forward Button</string>
+    <string name="Down">Backward Button</string>
+    <string name="Left">Left Button</string>
+    <string name="Right">Right Button</string>
+    <string name="UpLeft">UpLeft Button</string>
+    <string name="UpRight">UpRight Button</string>
+    <string name="DownLeft">DownLeft Button</string>
+    <string name="DownRight">DownRight Button</string>
+    <string name="Stop">Stop Button</string>
+    <string name="WatchVideoText">Watch Live Video</string>
+    <string name="Exit_Selection">Exit</string>
+    <string name="Clockwise">Clockwise</string>
+    <string name="Anticlockwise">AntiClockwise</string>
+    <string name="JoystickBtn">Manual Joystick</string>
+
+</resources>
